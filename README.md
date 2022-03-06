@@ -1,3 +1,18 @@
+# This is a shop pizza app
+
+- What are we building
+- Create a React App
+- Clean up files
+- Create the Navbar component
+- Global styling
+- Create the hero part
+- Create a sidebar
+- Creating product ingredients
+- Create a highlight element
+- Create footer
+
+  [link web img](https://pbs.twimg.com/media/ElrO0CHXgAAsp9N?format=jpg&name=4096x4096)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
