@@ -5,7 +5,8 @@ function Navbar() {
     return (
         <>
             <Nav>
-                <NavLink to='/' >Pizza hehe</NavLink>
+
+                <NavLink to='/' >Pizza</NavLink>
                 <NavIcon>
                     <p>Menu</p>
                     <Bars />
