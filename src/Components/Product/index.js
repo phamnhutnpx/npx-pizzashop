@@ -1,5 +1,4 @@
 import React from 'react'
-import { dataProduct as data } from './data.js'
 import {
     ProductCard,
     ProductContainer,
@@ -13,7 +12,7 @@ import {
     ProductInfo
 } from './ProductElements';
 
-const Products = ({ headingProduct }) => {
+const Products = ({ headingProduct, data }) => {
     return (
         <ProductContainer>
             <ProductHeading >{headingProduct}</ProductHeading>
