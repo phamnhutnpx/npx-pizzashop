@@ -12,7 +12,7 @@ export const SidebarContent = styled.aside`
     top: 0;
     display: grid;
     align-items: center;
-    right: ${({ isOpen }) => (isOpen ? '0px' : '-1000px')};
+    right: ${({ isOpen }) => (!isOpen ? '0px' : '-1000px')};
     @media screen and (max-width: 400px) {
         width: 100%;
     }
